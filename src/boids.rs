@@ -5,7 +5,6 @@ use std::{
 use bevy::{
     app::{App, Plugin},
     prelude::{
-        FixedUpdate,
         Component,
         Vec2,
         Commands,
